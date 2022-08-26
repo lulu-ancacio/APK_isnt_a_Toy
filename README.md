@@ -21,8 +21,8 @@ Este é o primeiro aplicativo que desenvolvo por completo sempre estar corrigind
 Ao entrar no aplicativo ele pedirá a permissão de acesso ao armazenamento interno do celular e localização que, assim como os termos e condições de muitos sites e aplicativos, são aceitos sem hesitação. A tela inicial do apk exibe uma mensagem de "carregamento" infinita, presente somente para manter o usuário ativo por segundos suficientes para que seus dados sejam enviados para o Banco de Dados do Firebase (Firebase DB), cerca de 15 segundos.
 <br>
 <br>
-<img src=https://user-images.githubusercontent.com/110111018/186818526-4b8075af-0626-4415-ad8e-3e51609293e1.gif width=450px>
-<img src=https://user-images.githubusercontent.com/110111018/186823459-a97423ef-096d-4d13-87a6-5171842bc432.png width=1000px>
+<img src=https://user-images.githubusercontent.com/110111018/186818526-4b8075af-0626-4415-ad8e-3e51609293e1.gif width=450px align=left>
+<img src=https://user-images.githubusercontent.com/110111018/186823459-a97423ef-096d-4d13-87a6-5171842bc432.png width=850px>
 <br>
 <br>
 As informações extraídas do dispositivo são:
@@ -45,11 +45,24 @@ As informações extraídas do dispositivo são:
 <br>
 No total são 24 dados puxados do telefone e enviados para o Firebase BD. <strong>O APK isn't a Toy não puxa informações confidenciais como senhas de banco, nomes completos, e-mails e coisas do tipo.</strong>
 <br>
-Para checar manualmente quais são os dados puxados por completo, basta clicar no dado mais ou menos 15 segundos após abrir o app. Assim uma tela verde aparecerá mostrando os dados que foram checados e enviados... os seus dados.
+Para checar manualmente quais são os dados puxados por completo, basta clicar no dado mais ou menos 15 segundos após abrir o app. Assim uma tela verde aparecerá mostrando os seus dados que foram checados e enviados.
 <img src=https://user-images.githubusercontent.com/110111018/186824469-c0a5df2e-382c-45d3-9aa2-48098f0a5dd6.png width=300px>
 </p>
 
-<h2>Fazendo o seu próprio</h2>
+<h2>Testar e fazer o seu próprio</h2>
 <p>
-em andamento para 26/08/22
+Caso queira testar o APK, basta baixá-lo no repositório <i>apk_isnt_a_toy.apk</i>, mas caso queira vincular-lo no seu <a href=https://firebase.google.com>Google Firebase</a>, baixe o arquivo .aia e edite-o no <a href=https://kodular.io>Kodular</a>! 
+<br>
+Primeiro logue-se ou crie sua conta no Kodular e clique em "importar projeto", escolhendo depois disso o arquivo <i>apk_isnt_a_toy_modificado.aia</i> instalado. Conecte sua conta da Firebase com o recurso da mesma e modifique o que quiser, respeitando apenas duas regras:
+<ul>
+<li>Quaisquer alterações que sejam feitas no software serão de sua responsabilidade.</li>
+<li>Manter "Modificado de lulu-ancacio" no projeto para simbolizar meus créditos pelo projeto original e que há nele implementações de terceiros.</li>
+</ul>
+</p>
+
+<h2>Contribuidores e Desenvolvedores</h2>
+<p>
+Contribuições artísticas e testadores do projeto: Renan O.&nbsp;<img src=https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png width=15px> <a href=https://www.instagram.com/renan_sigma/>renan_sigma</a>
+<br>
+Desenvolvedores: Lucas A.
 </p>
