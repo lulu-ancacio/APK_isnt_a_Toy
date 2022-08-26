@@ -53,10 +53,11 @@ Para checar manualmente quais são os dados puxados por completo, basta clicar n
 <p>
 Caso queira testar o APK, basta baixá-lo no repositório <i>apk_isnt_a_toy.apk</i>, mas caso queira vincular-lo no seu <a href=https://firebase.google.com>Google Firebase</a>, baixe o arquivo .aia e edite-o no <a href=https://kodular.io>Kodular</a>! 
 <br>
-Primeiro logue-se ou crie sua conta no Kodular e clique em "importar projeto", escolhendo depois disso o arquivo <i>apk_isnt_a_toy_modificado.aia</i> instalado. Conecte sua conta da Firebase com o recurso da mesma e modifique o que quiser, respeitando apenas duas regras:
+Primeiro logue-se ou crie sua conta no Kodular e clique em "importar projeto", escolhendo depois disso o arquivo <i>apk_isnt_a_toy_modificado.aia</i> instalado. Conecte sua conta da Firebase com o recurso da mesma e modifique o que quiser, respeitando apenas três regras:
 <ul>
 <li>Quaisquer alterações que sejam feitas no software serão de sua responsabilidade.</li>
 <li>Manter "Modificado de lulu-ancacio" no projeto para simbolizar meus créditos pelo projeto original e que há nele implementações de terceiros.</li>
+<li>Deixar explícito que se trata de uma versão do APK isn't a Toy </li>
 </ul>
 </p>
 
