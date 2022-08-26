@@ -61,6 +61,9 @@ Primeiro logue-se ou crie sua conta no Kodular e clique em "importar projeto", e
 </ul>
 </p>
 
+<h2>Bugs, erros e contribuições</h2>
+<p>Caso tenha localizado algum bug ou queira contribuir de alguma forma ao projeto sinta-se à vontade para entrar em contato comigo.</p>
+
 <h2>Contribuidores e Desenvolvedores</h2>
 <p>
 Contribuições artísticas e testadores do projeto: Renan O.&nbsp;<img src=https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png width=15px> <a href=https://www.instagram.com/renan_sigma/>renan_sigma</a>
