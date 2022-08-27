@@ -64,6 +64,10 @@ Primeiro logue-se ou crie sua conta no Kodular e clique em "importar projeto", e
 <h2>Bugs, erros e contribuições</h2>
 <p>Caso tenha localizado algum bug ou queira contribuir de alguma forma ao projeto sinta-se à vontade para entrar em contato comigo.</p>
 
+<h2>Riscos de instalação</h2>
+<p>
+Não há risco algum em instalar o APK isn't a Toy original anexado, uma vez que seus dados escaneados estarão disponíveis apenas para mim e não irei lograr deles ou publica-los. O único possível perigo é o da instalação de APK isn't a Toy modificado. Nesse caso não posso garantir segurança de instalação, então instale-o somente daqui ou de pessoas de confiança: apk não é brinquedo!</p>
+
 <h2>Contribuidores e Desenvolvedores</h2>
 <p>
 Contribuições artísticas e testadores do projeto: Renan O.&nbsp;<img src=https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png width=15px> <a href=https://www.instagram.com/renan_sigma/>renan_sigma</a>
