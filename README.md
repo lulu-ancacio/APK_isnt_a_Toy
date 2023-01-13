@@ -3,7 +3,7 @@
 <img src=https://user-images.githubusercontent.com/110111018/186804085-6c000c7d-9b33-458e-a921-ea672ecd63a5.png width=250px>
 <br>
 <img src=https://img.shields.io/github/license/lulu-ancacio/APK_isnt_a_Toy>
-<img src=http://img.shields.io/static/v1?label=tipo&message=apk&color=rgb(220,20,60)&style=flat>
+<img src=http://img.shields.io/static/v1?label=type&message=apk&color=rgb(220,20,60)&style=flat>
 <img src=http://img.shields.io/static/v1?label=kodular&message=version%201.5%20Fenix&color=rgb(138,43,226)&style=flat>
 </h1>
 
